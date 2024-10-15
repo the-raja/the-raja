@@ -1,3 +1,6 @@
+
+![1712502457611](https://github.com/user-attachments/assets/20a62e8b-7faa-4a40-9c91-c07ce200f2d5)
+
 # 🎬 **THE RAJA: Unleashing Innovation in the Digital Realm**  
 
 Welcome to my GitHub profile! I'm **RAJA KUMAR**, a BTech student specializing in **Computer Science and Engineering** at **KIIT**. I thrive on creativity and innovation in the tech universe, where boundaries blur, and possibilities are endless.  
