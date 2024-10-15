@@ -1,3 +1,5 @@
+![Animated Background](https://media.giphy.com/media/xT9IgG50Fb7Mi4zOj6/giphy.gif)
+
 # 🎬 **THE RAJA: Unleashing Innovation in the Digital Realm**  
 
 In a world where boundaries blur and technology reigns supreme, step into the realm of **RAJA**. As a burgeoning talent on the horizon of the tech universe, RAJA is more than just a student – he's a **visionary in the making**.
