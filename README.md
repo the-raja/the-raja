@@ -94,9 +94,9 @@ Currently on a relentless quest for excellence, I’m diving deep into the world
 
 I'm always eager to collaborate and learn from others. Feel free to reach out or connect with me on the following platforms:  
 
-[![GitHub](https://img.shields.io/badge/GitHub-the--raja-black?style=flat-square&logo=github)](https://github.com/the-raja)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RAJA%20KUMAR-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/theraja)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/u/H7jrmTVoU7/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/the-raja)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/theraja)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/u/H7jrmTVoU7/)  
 
 ---
 
