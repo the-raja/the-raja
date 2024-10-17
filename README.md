@@ -90,7 +90,7 @@ Currently on a relentless quest for excellence, I’m diving deep into the world
 
 ---
 
-## 🔗 **Let’s Connect!**  
+## 🔗 **Let’s Get Connected!**  
 
 I'm always eager to collaborate and learn from others. Feel free to reach out or connect with me on the following platforms:  
 
