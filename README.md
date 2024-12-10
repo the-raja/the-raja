@@ -13,14 +13,13 @@ Currently on a relentless quest for excellence, I’m diving deep into the world
 
 ---
 
-## 💻 **Skills & Technologies**  
+## 💻 **Skills & Technologies**
 
-### **Languages & Frameworks**  
+### **Languages & Frameworks**
 - **Programming Languages:**  
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> C
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> Java
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> Python
   </p>
 
 - **Web Development:**  
@@ -34,12 +33,15 @@ Currently on a relentless quest for excellence, I’m diving deep into the world
 
 - **DevOps & Cloud:**  
   <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/> Docker
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/> Kubernetes
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> AWS
   </p>
 
-### **Tools & Technologies**  
+### **Tools & Technologies**
+- **Data Structures and Algorithms (DSA):**  
+  <p align="left">
+   <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" alt="Algorithm" width="40" height="40"/> DSA in Java
+  </p>
+
 - **Version Control:**  
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> Git
@@ -49,7 +51,6 @@ Currently on a relentless quest for excellence, I’m diving deep into the world
 - **Databases:**  
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> MySQL
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/> MongoDB
   </p>
 
 - **Design & Prototyping:**  
