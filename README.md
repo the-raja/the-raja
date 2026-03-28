@@ -1,99 +1,151 @@
-
 ![1712502457611](https://github.com/user-attachments/assets/20a62e8b-7faa-4a40-9c91-c07ce200f2d5)
 
-# 🎬 **THE RAJA: Unleashing Innovation in the Digital Realm**  
+# 🎬 **THE RAJA: Building Scalable Systems & Intelligent Interfaces**  
 
-Welcome to my GitHub profile! I'm **RAJA KUMAR**, a BTech student specializing in **Computer Science and Engineering** at **KIIT**. I thrive on creativity and innovation in the tech universe, where boundaries blur, and possibilities are endless.  
+Welcome to my GitHub profile! I'm **RAJA KUMAR**, a BTech student specializing in **Computer Science and Engineering** at **KIIT University**. I build scalable full-stack applications, real-time systems, and AI-powered solutions with strong foundations in Data Structures and Algorithms.  
 
 ---
 
 ## 🚀 **My Journey**  
 
-Currently on a relentless quest for excellence, I’m diving deep into the world of technology, exploring various domains, and honing my skills for the future. Graduation is set for **2027**, but I'm not waiting for the future—I'm shaping it!
+Currently pursuing **B.Tech in Computer Science (2023–2027)** with a **CGPA of 9.07**.  
+I focus on designing real-time applications, intelligent systems, and scalable backend architectures.
+
+I enjoy turning complex ideas into clean, production-ready systems.
 
 ---
 
 ## 💻 **Skills & Technologies**
 
-### **Languages & Frameworks**
-- **Programming Languages:**  
-  <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> C
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> Java
-  </p>
+### **Programming Languages**
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
+</p>
 
-- **Web Development:**  
-  <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/> HTML5
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/> CSS3
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> JavaScript
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/> Node.js
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/> React
-  </p>
+### **Frameworks & Libraries**
+<p align="left">
+<img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
+<img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
+<img src="https://img.icons8.com/color/48/nodejs.png" width="40"/>
+<img src="https://img.icons8.com/color/48/tailwindcss.png" width="40"/>
+</p>
 
-- **DevOps & Cloud:**  
-  <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> AWS
-  </p>
+- Next.js  
+- React.js  
+- Node.js  
+- Express.js  
+- TensorFlow  
+- NumPy  
+- Tailwind CSS  
+- shadcn/ui  
 
-### **Tools & Technologies**
-- **Data Structures and Algorithms (DSA):**  
-  <p align="left">
-   <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" alt="Algorithm" width="40" height="40"/> DSA in Java
-  </p>
+---
 
-- **Version Control:**  
-  <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> Git
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/> GitHub
-  </p>
+### **Tools & Platforms**
+<p align="left">
+<img src="https://img.icons8.com/color/48/git.png" width="40"/>
+<img src="https://img.icons8.com/color/48/github.png" width="40"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/>
+<img src="https://img.icons8.com/color/48/intellij-idea.png" width="40"/>
+<img src="https://img.icons8.com/color/48/pycharm.png" width="40"/>
+</p>
 
-- **Databases:**  
-  <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> MySQL
-  </p>
+- Git  
+- VS Code  
+- IntelliJ IDEA  
+- PyCharm  
+- Jupyter Notebook  
 
-- **Design & Prototyping:**  
-  <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/> Figma
-    <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD" width="40" height="40"/> Adobe XD
-  </p>
+---
+
+### **Core Competencies**
+- Data Structures & Algorithms  
+- OOPS  
+- DBMS  
+- Software Engineering  
+- Project Management  
 
 ---
 
 ## 🛠️ **Projects**  
 
-### 1. **Outlet Management System**
-- **Technologies Used:** Spring Boot, DynamoDB, MySQL, Docker  
-- **Description:** Designed and implemented a comprehensive system for managing outlets with integrated RESTful APIs.
+### ♟️ **Chess.io — Smarter AI for tougher real-time competition**
+- **Tech:** Node.js, Express.js, Socket.IO, AI  
+- Built real-time multiplayer chess server using WebSockets  
+- Implemented minimax with alpha-beta pruning  
+- Designed heuristic evaluation using piece-square tables  
+- Added MinHeap priority queue for optimized move search  
 
-### 2. **Custom Machine Image Generator**
-- **Technologies Used:** Golang, Kubernetes, AWS  
-- **Description:** Developed an open-source tool that automates the generation of machine images within Kubernetes pods.
+---
 
-### 3. **Personal Portfolio Website**
-- **Technologies Used:** HTML, CSS, JavaScript, Next  
-- **Description:** Created a personal website to showcase projects, skills, and experiences, enhancing my online presence.
+### 🚚 **PickItUp — Find items nearby and skip the shop queue**
+- **Tech:** Next.js, React.js, MongoDB  
+- Built JWT authentication with RBAC and OTP verification  
+- Implemented GPS-based shop discovery using geolocation  
+- Designed reservation system with merchant dashboard  
+- Optimized MongoDB geospatial indexing with 2dsphere  
+
+---
+
+### 🏨 **Messy Matters — Managing hostel mess issues**
+- **Tech:** Next.js, React.js, MongoDB  
+- Built centralized complaint management system  
+- Implemented analytics for recurring issues  
+- Added role-based access for students and admins  
+- Streamlined complaint resolution workflow  
+
+---
+
+## 💼 **Experience**
+
+### Digital Marketing Intern — SwasthyaPro (Remote)
+**July 2025 – Sep 2025**
+
+- Executed data-driven social media campaigns  
+- Improved rankings for 10+ landing pages  
+- Conducted SEO audits and on-page optimization  
+- Used SEMrush and Google Analytics to track KPIs  
+
+---
+
+## 🎓 **Education**
+
+**KIIT University**  
+B.Tech Computer Science and Engineering  
+2023 — 2027  
+**CGPA: 9.07**
+
+Relevant Coursework:
+- Data Structures & Algorithms  
+- Operating Systems  
+- Computer Networks  
+- DBMS  
+- Machine Learning  
+- Data Mining  
+- Advanced Data Structures  
+
+---
+
+## 🏆 **Achievements**
+
+- Solved **200+ DSA problems** across platforms  
+- Completed **45-Day DSA Challenge (USC KIIT)**  
+- 🥈 **1st Runner-Up — KIIT Hackathon (UiPath Resume Screener)**  
 
 ---
 
 ## 🌟 **Interests**  
 
-- **Game Development:** Exploring the intersection of technology and creativity.  
-- **AI & Machine Learning:** Understanding how algorithms can shape our future.  
-- **Cybersecurity:** Passionate about safeguarding digital spaces and understanding the intricacies of security protocols.  
-
----
-
-## 🌟 **A Quote to Live By**  
-
-*"In a world of infinite possibilities, the only limit is imagination."* - RAJA  
+- AI & Machine Learning  
+- System Design  
+- Real-time Applications  
+- Full Stack Development  
 
 ---
 
 ## 🔗 **Let’s Get Connected!**  
-
-I'm always eager to collaborate and learn from others. Feel free to reach out or connect with me on the following platforms:  
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/the-raja)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/theraja)  
@@ -101,10 +153,13 @@ I'm always eager to collaborate and learn from others. Feel free to reach out or
 
 ---
 
-## 🎯 **Current Focus**  
-- **Data Structures & Algorithms:** Practicing over 500+ questions on LeetCode and more on other platforms.  
-- **Kubernetes & DevOps:** Continuously enhancing skills to deploy and manage applications efficiently.
+## 🎯 **Current Focus**
+
+- Advanced Data Structures & Algorithms  
+- AI-powered Applications  
+- Real-time Systems  
+- Backend Architecture  
 
 ---
 
-Thank you for visiting my profile! Let's shape the future together, one line of code at a time.
+Thank you for visiting my profile! Let's build something impactful 🚀
